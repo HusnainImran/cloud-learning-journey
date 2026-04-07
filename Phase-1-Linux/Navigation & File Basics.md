@@ -1,6 +1,6 @@
 # Day 1 - Linux Basic Commands (Navigation & File Basics)
 
-**Date:** Monday, March 23, 2026
+**Date:** Tuesday, April 7, 2026
 **Time Spent:** 1 hour
 **Platform:** Linux Terminal (Ubuntu)
 
